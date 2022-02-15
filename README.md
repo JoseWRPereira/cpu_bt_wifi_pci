@@ -66,3 +66,46 @@ Placa projetada para o desenvolvimento das aulas de microcontrolador e programa�
 |23|HDR-IDC-2.54-2X7P|P1,P2,P3,P4|IDC-TH_14P-P2.54-V-R2-C7-S2.54|4|
 |24|XTAL 20MHz|U2|SMD CRISTAL|1|
 
+
+
+# Pinos disponíveis para conexão
+
+## PIC16F887
+
+| Pino |	PORT |	Função |
+|:----:|:-----:|:-------:|
+| 33 | RB0 | AN12 / INT |
+| 34 | RB1 | AN10 / C12IN3-|
+| 35 | RB2 | AN8 |
+| 36 | RB3 | AN9 / PGM / C12IN2- |
+| 37 | RB4 | AN11 |
+| 38 | RB5 | AN13 / nT1G |
+| 39 | RB6 | ICSPCLK |
+| 40 | RB7 | ICSPDAT |
+| |     | |
+| 19 | RD0 | |
+| 20 | RD1 | |
+| 21 | RD2 | |
+| 22 | RD3 | |
+| 27 | RD4 | |
+| 28 | RD5 | P1B |
+| 29 | RD6 | P1C |
+| 30 | RD7 | P1D |
+| |     | |
+|  2 | RA0 | AN0 / ULPWU / C12IN0- |
+|  3 | RA1 | AN1 / C12IN1- |
+|  4 | RA2 | AN2 / Vref- / CVref / C2IN+ |
+|  5 | RA3 | AN3 / Vref+ / C1IN+ |
+| 23 | RA4 | T0CKI / C1OUT |
+| 24 | RA5 | AN4 / nSS| / C2OUT |
+| 25 | RE0 | AN5 |
+| 26 | RE1 | AN6 |
+| |     | |
+| 10 | RE2 | AN7 |
+|  1 | RE3 | nMCLR / VPP |
+| 15 | RC0 | T1OSO / T1CKI |
+| 16 | RC1 | T1OSI / CCP2 |
+| 17 | RC2 | P1A / CCP1 |
+| 18 | RC3 | SCK / SCL |
+| 23 | RC4 | SDI / SDA |
+| 24 | RC5 | SDO |
