@@ -14,19 +14,19 @@ Placa projetada para o desenvolvimento das aulas de microcontrolador e programa�
 
 |Figura 1: Visualização 3D da placa |
 |:---------------------------------:|
-| ![CPU em 3D](https://github.com/JoseWRPereira/pci_cpu_bt_wifi/blob/main/3d.png)|
+| ![CPU em 3D](https://github.com/JoseWRPereira/pci_cpu_bt_wifi/blob/main/images/3d.gif)|
 | Fonte: Próprio autor |
 
 
 |Figura 2: Layout superior da placa |
 |:---------------------------------:|
-| ![Layout Frontal](https://github.com/JoseWRPereira/pci_cpu_bt_wifi/blob/main/layout_superior.png)|
+| ![Layout Frontal](https://github.com/JoseWRPereira/pci_cpu_bt_wifi/blob/main/images/layout_superior.svg)|
 | Fonte: Próprio autor |
 
 
 |Figura 3: Layout inferior da placa |
 |:---------------------------------:|
-| ![Layout Frontal](https://github.com/JoseWRPereira/pci_cpu_bt_wifi/blob/main/layout_inferior.png)|
+| ![Layout Frontal](https://github.com/JoseWRPereira/pci_cpu_bt_wifi/blob/main/images/layout_inferior.svg)|
 | Fonte: Próprio autor |
 
 
